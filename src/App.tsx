@@ -37,7 +37,7 @@ export default function App() {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Avyrox POC Test App</Text>
+      {/* <Text style={styles.title}>Avyrox POC Test App</Text> */}
       <TouchableOpacity style={styles.profileButton} onPress={handleViewProfile}>
         <Text style={styles.profileButtonText}>View Jeff Dannel Profile</Text>
       </TouchableOpacity>

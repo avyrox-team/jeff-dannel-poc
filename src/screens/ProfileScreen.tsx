@@ -27,7 +27,7 @@ const ProfileScreen: React.FC<ProfileScreenProps> = ({ onBack }) => {
   };
 
   const handleQRCodePress = () => {
-    Linking.openURL('https://3cstudios.com');
+    Linking.openURL('https://dev.3rx.co/go/zGu7HQn');
   };
 
   return (
@@ -146,7 +146,7 @@ const styles = StyleSheet.create({
   contactContainer: {
     width: '100%',
     maxWidth: 300,
-    marginBottom: 40,
+    marginBottom: 10,
   },
   contactItem: {
     flexDirection: 'row',
@@ -172,7 +172,7 @@ const styles = StyleSheet.create({
   },
   qrContainer: {
     alignItems: 'center',
-    marginTop: 20,
+    marginTop: 0,
   },
   qrLabel: {
     fontSize: 18,

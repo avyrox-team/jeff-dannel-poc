@@ -43,6 +43,12 @@
           "backgroundColor": "#ffffff"
         }
       ]
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "0f2b664d-f81d-4658-932d-4eb2492ff06d"
+      }
+    },
+    "owner": "fanlyxx_org"
   }
 }
