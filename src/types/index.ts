@@ -1,0 +1,1 @@
+export type { SplashScreenProps, SplashScreenConfig } from './splash.types';

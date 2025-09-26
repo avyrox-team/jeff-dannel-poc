@@ -1,0 +1,27 @@
+{
+  "name": "jeff-dannel-poc",
+  "version": "1.0.1",
+  "main": "index.ts",
+  "scripts": {
+    "start": "expo start --go",
+    "android": "expo run:android",
+    "ios": "expo run:ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "expo": "~54.0.10",
+    "expo-dev-client": "^6.0.12",
+    "expo-status-bar": "~3.0.8",
+    "expo-system-ui": "~5.0.11",
+    "react": "19.1.0",
+    "react-native": "0.79.5",
+    "expo-constants": "^17.0.3",
+    "expo-splash-screen": "~0.30.10"
+  },
+  "devDependencies": {
+    "@react-native-community/cli": "^20.0.2",
+    "@types/react": "~19.1.0",
+    "typescript": "~5.9.2"
+  },
+  "private": true
+}
